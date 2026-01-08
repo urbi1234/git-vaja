@@ -28,5 +28,19 @@
 
 
 
+\##Dejstva o vroči čokoladi
 
+
+
+1.Zelo topla (včasih pretopla)
+
+2.Lahko dodamo dodatke (penice, mrvice, M\&Ms)
+
+3.Več vrst:
+
+&nbsp;	-Bela
+
+&nbsp;	-Jagodna
+
+&nbsp;	-Mlečna čokolada
 
