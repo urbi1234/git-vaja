@@ -26,6 +26,8 @@
 
 - git merge branch -> združi vejo branch v trenutno vejo
 
+- git branch -m <newname> -> preimenuj vejo
+
 
 
 ## ASCII art
