@@ -1,6 +1,5 @@
 # Git day
 
-## HELLO
 
 ## Comande
 
